@@ -11,7 +11,7 @@ Java, SpringBoot, Mulesoft, Python.
 Tech Challenge - Fondeadora
 ========================
 
-This simple project is an example, written in *_python_* that flatten an <br>
+This simple project is an example, written in *_python_* that flatten an
 array of integers (that can be arbitrarily nested) to a flat array of integers.
 
 
