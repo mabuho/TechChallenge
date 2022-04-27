@@ -25,6 +25,13 @@ Expected result:
 [1, 2, 3, 4, 5]
 ```
 
+Run:
+========================
+To run this project:
+```
+python -m tech_challenge
+```
+
 Test:
 ========================
 This project runs unnittest.
@@ -41,4 +48,5 @@ TBD:
  * Makefile
  * requirements.txt
  * Add code coverage report
+ * Set environment variables
  * Add configuration files for different environments (dev, qa, prod)
