@@ -1,7 +1,10 @@
 ## Hi there 👋
+
 ### Mario Fernando Fernández Muñoz
+
 ## Resume: 
 [https://resume.io/r/8EjQ1dtnJ](https://resume.io/r/8EjQ1dtnJ)
+
 ## Main technologies
 Java, SpringBoot, Mulesoft, Python.
 
@@ -37,8 +40,5 @@ TBD:
  * setup.py
  * Makefile
  * requirements.txt
- * code coverage
- * 
-
-Tech Challenge - Fondeadora
-========================
+ * Add code coverage report
+ * Add configuration files for different environments (dev, qa, prod)

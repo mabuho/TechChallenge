@@ -39,7 +39,6 @@ class FlatList(object):
     @list.setter
     def list(self, list):
         if self.__is_instance_of_list(list):
-            print('Flattening list... \n')
             self.nested_list = list
 
     
